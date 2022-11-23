@@ -1,5 +1,7 @@
 # React Practice
 
+View site at https://testadenevill.github.io/React-Practice1/index.html
+
 ## Description
 
 I created a simple application that uses Bootstrap and several different React tools such as, functional and class components, states and hooks to generate a list of user names. The list are created by entering them in a input field, once submitted a function enters the data into a list and updates the DOM to display the added names.
@@ -44,3 +46,5 @@ npm Test
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at testanickle@gmail.com. You can find more of my work at [testadenevill](https://github.com/testadenevill/).
+
+View site at https://testadenevill.github.io/React-Practice1/index.html
